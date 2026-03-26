@@ -4,7 +4,7 @@ Named LET special form for Common Lisp -- a Scheme-style named let.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://github.com/jrm-code-project/named-let.git |
-| commit  | 0000000                                                 |
+| commit  | 45cef23                                                 |
 | systems | named-let                                               |
 |---------+---------------------------------------------------------|
 
